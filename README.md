@@ -2,7 +2,9 @@
 
 ### Turning Retail Sales Data into Actionable Business Insights
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)" />   \<img src="[https://img.shields.io/badge/Data%20Analytics-Retail%20Sales-0078D4?style=for-the-badge](https://img.shields.io/badge/Data%20Analytics-Retail%20Sales-0078D4?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Dataset-12.5K%20Transactions-2E8B57?style=for-the-badge](https://img.shields.io/badge/Dataset-12.5K%20Transactions-2E8B57?style=for-the-badge)" /> \</p>
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Retail%20Sales-blue?style=for-the-badge)
+![Dataset](https://img.shields.io/badge/Dataset-12.5K%20Transactions-green?style=for-the-badge)
 
 ---
 
@@ -16,7 +18,7 @@ Using retail transaction data, I transformed sales records into meaningful visua
 
 ## 🖥️ Dashboard Preview
 
-\<p align="center">   \<img src="SALES_PERFORMANCE_ANALYTICS_DASHBOARD.png" width="100%" alt="Sales Performance Analytics Dashboard"/> \</p>
+![Sales Performance Analytics Dashboard](SALES_PERFORMANCE_ANALYTICS_DASHBOARD.png)
 
 ## 🎯 Business Objectives
 
