@@ -1,232 +1,192 @@
-📊 SALES PERFORMANCE ANALYTICS DASHBOARD
+# 📊 SALES PERFORMANCE ANALYTICS DASHBOARD
 
-Turning Retail Sales Data into Actionable Business Insights
+### Turning Retail Sales Data into Actionable Business Insights
 
-<p align="center">   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />   <img src="https://img.shields.io/badge/Data%20Analytics-Retail%20Sales-0078D4?style=for-the-badge" />   <img src="https://img.shields.io/badge/Dataset-12.5K%20Transactions-2E8B57?style=for-the-badge" /> </p>
+\<p align="center">   \<img src="[https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)" />   \<img src="[https://img.shields.io/badge/Data%20Analytics-Retail%20Sales-0078D4?style=for-the-badge](https://img.shields.io/badge/Data%20Analytics-Retail%20Sales-0078D4?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Dataset-12.5K%20Transactions-2E8B57?style=for-the-badge](https://img.shields.io/badge/Dataset-12.5K%20Transactions-2E8B57?style=for-the-badge)" /> \</p>
 
-🚀 Project Overview
+---
+
+## 🚀 Project Overview
 
 How is a retail business performing? Which product categories generate the highest revenue? Do customers prefer shopping online or in-store? Which payment methods contribute the most to sales?
 
-This project explores these business questions through an interactive Sales Performance Analytics Dashboard built using Microsoft Power BI.
+This project explores these business questions through an interactive **Sales Performance Analytics Dashboard built using Microsoft Power BI**.
 
 Using retail transaction data, I transformed sales records into meaningful visual insights to understand business performance, identify sales patterns and support data-driven decision-making.
 
-🖥️ Dashboard Preview
+## 🖥️ Dashboard Preview
 
-<p align="center">   <img src="SALES_PERFORMANCE_ANALYTICS_DASHBOARD.png" width="100%" alt="Sales Performance Analytics Dashboard"/> </p>
+\<p align="center">   \<img src="SALES_PERFORMANCE_ANALYTICS_DASHBOARD.png" width="100%" alt="Sales Performance Analytics Dashboard"/> \</p>
 
-🎯 Business Objectives
+## 🎯 Business Objectives
 
 The primary goal of this project is to understand retail sales performance through data analysis.
 
-📈 Monitor overall revenue and sales performance.
+- 📈 Monitor overall revenue and sales performance.
+- 🛒 Identify high-performing product categories.
+- 📍 Compare online and in-store sales.
+- 💳 Understand customer payment preferences.
+- 📅 Analyze yearly sales trends.
+- 📦 Explore product-level quantity performance.
+- 🔎 Enable interactive analysis using dynamic filters.
 
-🛒 Identify high-performing product categories.
+## 📂 Dataset Overview
 
-📍 Compare online and in-store sales.
-
-💳 Understand customer payment preferences.
-
-📅 Analyze yearly sales trends.
-
-📦 Explore product-level quantity performance.
-
-🔎 Enable interactive analysis using dynamic filters.
-
-📂 Dataset Overview
-
-The analysis uses a retail store sales dataset containing 12,575 transaction records and 11 columns.
+The analysis uses a retail store sales dataset containing **12,575 transaction records and 11 columns**.
 
 The dataset includes:
 
-Transaction ID and Customer ID
-
-Product Category and Item
-
-Price Per Unit and Quantity
-
-Total Spent
-
-Payment Method
-
-Shopping Location
-
-Transaction Date
-
-Discount Applied
+- Transaction ID and Customer ID
+- Product Category and Item
+- Price Per Unit and Quantity
+- Total Spent
+- Payment Method
+- Shopping Location
+- Transaction Date
+- Discount Applied
 
 These attributes allow exploration of sales performance from multiple business perspectives.
 
-📌 Key Performance Indicators
+## 📌 Key Performance Indicators
 
 The dashboard highlights five important business metrics:
 
-💰 Total Sales: 1.55M
-
-🧾 Total Orders: 13K
-
-📦 Total Quantity Sold: 66K
-
-🏷️ Average Price: 23.37
-
-🛍️ Average Order Value: 123.43
+- 💰 **Total Sales:** 1.55M
+- 🧾 **Total Orders:** 13K
+- 📦 **Total Quantity Sold:** 66K
+- 🏷️ **Average Price:** 23.37
+- 🛍️ **Average Order Value:** 123.43
 
 These KPIs provide a quick overview of the overall retail business performance.
 
-📊 Dashboard Insights
+## 📊 Dashboard Insights
 
-1️⃣ Category-Wise Sales Performance
+### 1️⃣ Category-Wise Sales Performance
 
 Analyzed revenue generated across eight product categories.
 
-Butchers recorded the highest sales at approximately 0.21M.
+- Butchers recorded the highest sales at approximately 0.21M.
+- Electric Household Essentials and Beverages followed closely.
+- Milk Products recorded approximately 0.18M.
 
-Electric Household Essentials and Beverages followed closely.
+**Business perspective:** Category-level performance can help businesses evaluate product demand and make better inventory decisions.
 
-Milk Products recorded approximately 0.18M.
-
-Business perspective: Category-level performance can help businesses evaluate product demand and make better inventory decisions.
-
-2️⃣ Yearly Sales Trends
+### 2️⃣ Yearly Sales Trends
 
 Evaluated sales performance from 2022 to 2025.
 
-2022 recorded approximately 0.51M.
-
-2023 recorded approximately 0.49M.
-
-2024 recorded approximately 0.52M.
-
-2025 recorded approximately 0.03M.
+- 2022 recorded approximately 0.51M.
+- 2023 recorded approximately 0.49M.
+- 2024 recorded approximately 0.52M.
+- 2025 recorded approximately 0.03M.
 
 2024 was the strongest complete calendar year.
 
-Note: 2025 contains only partial-year data, so its sales should not be compared directly with complete calendar years.
+*Note: 2025 contains only partial-year data, so its sales should not be compared directly with complete calendar years.*
 
-3️⃣ Payment Method Analysis
+### 3️⃣ Payment Method Analysis
 
 Compared revenue generated through three payment methods:
 
-💵 Cash
-
-💳 Credit Card
-
-📱 Digital Wallet
+- 💵 Cash
+- 💳 Credit Card
+- 📱 Digital Wallet
 
 Cash contributed the highest revenue, approximately 537.71K.
 
 Digital Wallet and Credit Card generated approximately 507K each.
 
-4️⃣ Location-Wise Sales Analysis
+### 4️⃣ Location-Wise Sales Analysis
 
 Compared the performance of two sales channels:
 
-🌐 Online: 0.79M
-
-🏬 In-store: 0.76M
+- 🌐 Online: 0.79M
+- 🏬 In-store: 0.76M
 
 Online sales contributed slightly more revenue than in-store sales.
 
-5️⃣ Product Quantity Analysis
+### 5️⃣ Product Quantity Analysis
 
 Analyzed quantity sold across individual items to understand product-level sales patterns.
 
 The dashboard also highlights an Unknown Item category, indicating missing product information in the source data.
 
-🎛️ Interactive Dashboard Features
+## 🎛️ Interactive Dashboard Features
 
 The dashboard includes interactive slicers that allow users to explore sales performance dynamically.
 
-Transaction ID
-
-Product Category
-
-Location
-
-Payment Method
+- Transaction ID
+- Product Category
+- Location
+- Payment Method
 
 Users can apply different filters to investigate specific sales segments and understand how business performance changes across selections.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
-Microsoft Power BI
+**Microsoft Power BI**
 
-Dashboard development
+- Dashboard development
+- Interactive visualizations
+- KPI reporting
 
-Interactive visualizations
+**Power Query**
 
-KPI reporting
+- Data preparation
+- Data transformation
 
-Power Query
+**DAX (Data Analysis Expressions)**
 
-Data preparation
+- Business calculations
+- KPI development
 
-Data transformation
+**CSV Dataset**
 
-DAX (Data Analysis Expressions)
+- Retail transaction data
+- Sales analysis
 
-Business calculations
-
-KPI development
-
-CSV Dataset
-
-Retail transaction data
-
-Sales analysis
-
-💡 Business Recommendations
+## 💡 Business Recommendations
 
 Based on the observed sales patterns, the following actions could support better business decisions:
 
-Focus on monitoring high-revenue product categories.
+- Focus on monitoring high-revenue product categories.
+- Evaluate online and in-store sales separately to identify channel opportunities.
+- Monitor payment preferences to understand customer transaction behaviour.
+- Investigate missing product information to improve reporting accuracy.
+- Compare equivalent time periods when evaluating yearly performance.
+- Regularly monitor KPIs to identify changes in business performance.
 
-Evaluate online and in-store sales separately to identify channel opportunities.
-
-Monitor payment preferences to understand customer transaction behaviour.
-
-Investigate missing product information to improve reporting accuracy.
-
-Compare equivalent time periods when evaluating yearly performance.
-
-Regularly monitor KPIs to identify changes in business performance.
-
-📁 Project Files
+## 📁 Project Files
 
 This repository contains:
 
-📂 Dataset
+📂 **Dataset**
 
-retail_store_sales.csv – Original retail transaction dataset.
+- `retail_store_sales.csv` – Original retail transaction dataset.
 
-📊 Power BI Report
+📊 **Power BI Report**
 
-sales.pbix – Interactive Power BI dashboard file.
+- `sales.pbix` – Interactive Power BI dashboard file.
 
-🖼️ Dashboard Preview
+🖼️ **Dashboard Preview**
 
-SALES_PERFORMANCE_ANALYTICS_DASHBOARD.png – Dashboard screenshot.
+- `SALES_PERFORMANCE_ANALYTICS_DASHBOARD.png` – Dashboard screenshot.
 
-📄 README.md
+📄 **README.md**
 
-Project overview, analysis and business insights.
+- Project overview, analysis and business insights.
 
-▶️ How to Explore the Project
+## ▶️ How to Explore the Project
 
-Download or clone this repository.
+1. Download or clone this repository.
+2. Open `sales.pbix` using Microsoft Power BI Desktop.
+3. Explore the dashboard and apply different slicers.
+4. Review the dataset to understand the underlying transactions.
+5. Explore the business insights presented in this documentation.
 
-Open sales.pbix using Microsoft Power BI Desktop.
+## 👩‍💻 About Me
 
-Explore the dashboard and apply different slicers.
-
-Review the dataset to understand the underlying transactions.
-
-Explore the business insights presented in this documentation.
-
-👩‍💻 About Me
-
-Devika Sutar
+**Devika Sutar**
 
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
@@ -234,6 +194,8 @@ I enjoy exploring datasets, identifying meaningful patterns and transforming raw
 
 This project demonstrates my practical understanding of data analysis, business intelligence and interactive dashboard development.
 
-<p align="center">
-  <b>⭐ If you find this project interesting, feel free to explore the repository!</b>
-</p>
+---
+
+\<p align="center">
+&#x20; \<b>⭐ If you find this project interesting, feel free to explore the repository!\</b>
+\</p>
